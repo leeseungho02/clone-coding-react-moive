@@ -27,6 +27,7 @@ Javascript XML이며 React의 렌더링 로직은 아래와 같은 UI 로직과 
 #### PropTypes란?
 
 > npm i prop-types
+
 컴포너넌트의 props에 지정한 데이터 타입과 다른 타입의 값이 들어왔을 때 오류로 그 내용을 표시해준다.
 
 #### 참고 사이트
