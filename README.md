@@ -27,12 +27,11 @@ Javascript XML이며 React의 렌더링 로직은 아래와 같은 UI 로직과 
 #### PropTypes란?
 
 > npm i prop-types
-<br>
 컴포너넌트의 props에 지정한 데이터 타입과 다른 타입의 값이 들어왔을 때 오류로 그 내용을 표시해준다.
 
 #### 참고 사이트
 
-[JSX 소개](https://ko.reactjs.org/docs/introducing-jsx.html)
-[JSX 이해하기](https://ko.reactjs.org/docs/jsx-in-depth.html)
-[Props 사용법](https://ko.reactjs.org/tutorial/tutorial.html#passing-data-through-props)
-[PropTypes를 사용한 타입 검사](https://ko.reactjs.org/docs/typechecking-with-proptypes.html)
+[JSX 소개](https://ko.reactjs.org/docs/introducing-jsx.html) <br>
+[JSX 이해하기](https://ko.reactjs.org/docs/jsx-in-depth.html) <br>
+[Props 사용법](https://ko.reactjs.org/tutorial/tutorial.html#passing-data-through-props) <br>
+[PropTypes를 사용한 타입 검사](https://ko.reactjs.org/docs/typechecking-with-proptypes.html) <br>
