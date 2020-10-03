@@ -6,7 +6,9 @@
 
 ## 📢 공부 내용
 
-### 📑 1. JSX & Props
+<details markdown="1">
+
+<summary>📑 1. JSX & Props</summary>
 
 #### JSX란?
 
@@ -36,3 +38,5 @@ Javascript XML이며 React의 렌더링 로직은 아래와 같은 UI 로직과 
 [JSX 이해하기](https://ko.reactjs.org/docs/jsx-in-depth.html) <br>
 [Props 사용법](https://ko.reactjs.org/tutorial/tutorial.html#passing-data-through-props) <br>
 [PropTypes를 사용한 타입 검사](https://ko.reactjs.org/docs/typechecking-with-proptypes.html) <br>
+
+</details>
