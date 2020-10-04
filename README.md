@@ -40,9 +40,10 @@ export default App;
 
 #### PropTypes란?
 
-> npm i prop-types
-
 컴포너넌트의 props에 지정한 데이터 타입과 다른 타입의 값이 들어왔을 때 오류로 그 내용을 표시해준다.
+
+- 설치법
+> npm i prop-types
 
 #### 참고 사이트
 
@@ -117,5 +118,38 @@ props 또는 state가 변경되면 갱신이 발생합니다. 아래 메서드�
 
 [컴포넌트 생명주기](https://ko.reactjs.org/docs/react-component.html) <br>
 [컴포넌트 State](https://ko.reactjs.org/docs/faq-state.html) <br>
+
+</details>
+
+<details markdown="3">
+
+<summary>📑 3. Axios</summary>
+
+#### Axios란?
+
+Axios는 브라우저, Node.js를 위한 Promise API를 활용하는 HTTP 비동기 통신 라이브러리입니다.
+
+- 설치법
+> npm i axios
+
+### github page
+
+- 사용법
+
+> npm i gh-pages
+package.json
+``` json
+"scripts": {
+  "deploy": "gh-pages -d build",
+  "predeploy": "npm run build"
+},
+"homepage": "https://{your github username}.github.io/{the name of your project in github}"
+```
+> npm run deploy
+
+#### 참고 사이트
+
+[async 가이드](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Statements/async_function) <br>
+[axios 가이드](https://xn--xy1bk56a.run/axios/guide/usage.html) <br>
 
 </details>
