@@ -129,8 +129,15 @@ props 또는 state가 변경되면 갱신이 발생합니다. 아래 메서드�
 
 Axios는 브라우저, Node.js를 위한 Promise API를 활용하는 HTTP 비동기 통신 라이브러리입니다.
 
-- 설치법
-> npm i axios
+- CDN 방식
+``` javascript
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+```
+
+- NPM 방식
+``` javascript
+npm i axios
+```
 
 ### github page
 
@@ -150,6 +157,31 @@ package.json
 #### 참고 사이트
 
 [async 가이드](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Statements/async_function) <br>
-[axios 가이드](https://xn--xy1bk56a.run/axios/guide/usage.html) <br>
+[axios 가이드](https://github.com/axios/axios#example) <br>
+
+</details>
+
+<details markdown="4">
+
+<summary>📑 4. React-router-dom</summary>
+
+#### React-router-dom란?
+
+React-router-dom는 브라우저에서 사용되는 리액트 라우터 입니다.
+
+- 설치
+``` javascript
+npm i react-router-dom
+```
+
+리액트 라우터에서 제공하는 몇 가지 기본 컴포넌트의 역할은 다음과 같다.
+- <BrowserRouter />: HTML5 히스토리 API를 사용하여 주소를 관리하는 라우터(해쉬뱅 모드 사용 안함)
+- <Route />: 요청 경로와 렌더링할 컴포넌트를 설정한다
+- <Switch />: 하위에 라우터 중 하나를 선택한다
+- <Redirect />: 요청 경로를 다른 경로로 리다이렉션한다
+
+#### 참고 사이트
+
+[React-router-dom 가이드](https://reactrouter.com/web/guides/quick-start) <br>
 
 </details>
