@@ -1,12 +1,12 @@
 ## 📢 목적
 
-- 해당 프로젝트는 노마드 코더 "ReactJS로 영화 웹 서비스 만들기" 강의를 클론 코딩 및 추가 개발로 리액트를 공부하는 프로젝트입니다.
+해당 프로젝트는 노마드 코더 "ReactJS로 영화 웹 서비스 만들기" 강의를 수강하여 클론 코딩으로 리액트를 공부하는 프로젝트입니다.
 
 ## 📢 공부 내용
 
 <details markdown="1">
 
-<summary>📑 1. JSX & Props</summary>
+<summary>📑 JSX & Props</summary>
 
 #### JSX란?
 
@@ -56,7 +56,7 @@ export default App;
 
 <details markdown="2">
 
-<summary>📑 2. Component State</summary>
+<summary>📑 Component State</summary>
 
 #### Component State란?
 
@@ -123,7 +123,7 @@ props 또는 state가 변경되면 갱신이 발생합니다. 아래 메서드�
 
 <details markdown="3">
 
-<summary>📑 3. Axios</summary>
+<summary>📑 Axios</summary>
 
 #### Axios란?
 
@@ -163,7 +163,7 @@ package.json
 
 <details markdown="4">
 
-<summary>📑 4. React-router-dom</summary>
+<summary>📑 React-router-dom</summary>
 
 #### React-router-dom란?
 
@@ -175,10 +175,10 @@ npm i react-router-dom
 ```
 
 리액트 라우터에서 제공하는 몇 가지 기본 컴포넌트의 역할은 다음과 같다.
-- <BrowserRouter />: HTML5 히스토리 API를 사용하여 주소를 관리하는 라우터(해쉬뱅 모드 사용 안함)
-- <Route />: 요청 경로와 렌더링할 컴포넌트를 설정한다
-- <Switch />: 하위에 라우터 중 하나를 선택한다
-- <Redirect />: 요청 경로를 다른 경로로 리다이렉션한다
+- `<BrowserRouter />`: HTML5 히스토리 API를 사용하여 주소를 관리하는 라우터(해쉬뱅 모드 사용 안함)
+- `<Route />`: 요청 경로와 렌더링할 컴포넌트를 설정한다
+- `<Switch />`: 하위에 라우터 중 하나를 선택한다
+- `<Redirect />`: 요청 경로를 다른 경로로 리다이렉션한다
 
 #### 참고 사이트
 
