@@ -6,6 +6,7 @@ import './Movie.css';
 function Movie({ id, year, title, summary, poster, genres }) {
     return (
         <Link
+            className="col-lg-3 col-md-6"
             to={{
                 pathname: `/movie/${id}`,
                 state: {
@@ -17,15 +18,15 @@ function Movie({ id, year, title, summary, poster, genres }) {
                 }
             }}
         >
-            <div className="movie">
+            <div className="movie mb-5">
                 <img src={poster} alt={title} title={title} />
-                <div className="movie__data">
-                    <h3 className="movie__title">{title}</h3>
-                    <ul className="genres">
-                        {genres.map((genre, index) => <li key={index} className="genres_genre">{genre}</li>)}
+                <div className="movie__data p-3">
+                    <div className="movie__title">{title}</div>
+                    <ul className="genres d-flex flex-wrap">
+                        {genres.map((genre, index) => <li key={index} className="genres_genre mr-3">{genre}</li>)}
                     </ul>
-                    <h5 className="movie__year">{year}</h5>
-                    <p className="movie__summary">{summary}</p>
+                    <div className="movie__year">{year}</div>
+                    <p className="movie__summary text-break">{summary}</p>
                 </div>
             </div>
         </Link>

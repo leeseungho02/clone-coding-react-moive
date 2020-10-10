@@ -5,6 +5,8 @@ import About from './routes/About';
 import MovieDetail from './routes/MovieDetail';
 import Navigation from './components/Navigation';
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 function App() {
 	return <HashRouter>
 		<Navigation />
