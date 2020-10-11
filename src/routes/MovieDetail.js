@@ -11,7 +11,9 @@ class MovieDetail extends React.Component {
     render() {
         const { location } = this.props;
         if(location.state){
-            return <div>{location.state.title}</div>;
+            return <div className="container">
+                {location.state.title}
+            </div>;
         } else {
             return null;
         }

@@ -18,8 +18,10 @@ function Movie({ id, year, title, summary, poster, genres }) {
                 }
             }}
         >
-            <div className="movie mb-5">
-                <img src={poster} alt={title} title={title} />
+            <div className="movie mb-5 shadow-sm">
+                <div className="movie__poster">
+                    <img src={poster} alt={title} title={title} />
+                </div>
                 <div className="movie__data p-3">
                     <div className="movie__title">{title}</div>
                     <ul className="genres d-flex flex-wrap">
