@@ -24,11 +24,11 @@ function Movie({ id, year, title, summary, poster, genres }) {
                 </div>
                 <div className="movie__data p-3">
                     <div className="movie__title">{title}</div>
+                    <p className="movie__summary text-break">{summary}</p>
                     <ul className="genres d-flex flex-wrap">
                         {genres.map((genre, index) => <li key={index} className="genres_genre mr-3">{genre}</li>)}
                     </ul>
                     <div className="movie__year">{year}</div>
-                    <p className="movie__summary text-break">{summary}</p>
                 </div>
             </div>
         </Link>

@@ -30,6 +30,10 @@ a { color: black !important; }
     word-wrap: break-word; 
 }
 
+.navigation {
+    position: relative;
+}
+
 .navigation a {
     width: 7rem;
     height: 3rem;
@@ -44,6 +48,14 @@ a { color: black !important; }
 .navigation a.active {
     color: rgb(52, 58, 64);
     font-weight: bold;
+}
+
+.navigation .nav__bar {
+    width: 50%;
+    height: 2px;
+    position: absolute;
+    bottom: 0px;
+    background: rgb(52, 58, 64);
 }
 
 @media (min-width: 1440px) {
