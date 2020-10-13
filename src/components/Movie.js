@@ -23,12 +23,11 @@ function Movie({ id, year, title, summary, poster, genres }) {
                     <img src={poster} alt={title} title={title} />
                 </div>
                 <div className="movie__data p-3">
-                    <div className="movie__title">{title}</div>
-                    <p className="movie__summary text-break">{summary}</p>
-                    <ul className="genres d-flex flex-wrap">
-                        {genres.map((genre, index) => <li key={index} className="genres_genre mr-3">{genre}</li>)}
+                    <div className="movie__title font-weight-bold">{title} ({year})</div>
+                    <p className="movie__summary text-break mt-3">{summary}</p>
+                    <ul className="genres d-flex flex-wrap text-break text-break-1">
+                        {genres.map((genre, index) => <li key={index} className="genres_genre mr-3">#{genre}</li>)}
                     </ul>
-                    <div className="movie__year">{year}</div>
                 </div>
             </div>
         </Link>
