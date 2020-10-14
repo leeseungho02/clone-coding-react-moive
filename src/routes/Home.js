@@ -15,6 +15,7 @@ class App extends React.Component {
 			}
 		} = await axios.get("https://yts.mx/api/v2/list_movies.json?sort_by=rating");
 		this.setState({ movies, isLoading: false });
+		console.log(movies);
 	}
 
 	componentDidMount() {
@@ -31,7 +32,7 @@ class App extends React.Component {
 							<span className="loader__text">loading...</span>
 						</div>
 					) : (
-						<div className="movies row">
+						<div className="movies row mt-5">
 							{movies.map(movie =>
 								<Movie
 									key={movie.id}
