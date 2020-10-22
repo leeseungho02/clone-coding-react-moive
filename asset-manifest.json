@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/clone-coding-react-moive/static/css/main.20bb2752.chunk.css",
-    "main.js": "/clone-coding-react-moive/static/js/main.220e008a.chunk.js",
-    "main.js.map": "/clone-coding-react-moive/static/js/main.220e008a.chunk.js.map",
-    "runtime-main.js": "/clone-coding-react-moive/static/js/runtime-main.eddc4daa.js",
-    "runtime-main.js.map": "/clone-coding-react-moive/static/js/runtime-main.eddc4daa.js.map",
-    "static/js/2.91705b95.chunk.js": "/clone-coding-react-moive/static/js/2.91705b95.chunk.js",
-    "static/js/2.91705b95.chunk.js.map": "/clone-coding-react-moive/static/js/2.91705b95.chunk.js.map",
-    "index.html": "/clone-coding-react-moive/index.html",
-    "precache-manifest.2071332b052dbe95bf3378363d5f7679.js": "/clone-coding-react-moive/precache-manifest.2071332b052dbe95bf3378363d5f7679.js",
-    "service-worker.js": "/clone-coding-react-moive/service-worker.js",
-    "static/css/main.20bb2752.chunk.css.map": "/clone-coding-react-moive/static/css/main.20bb2752.chunk.css.map",
-    "static/js/2.91705b95.chunk.js.LICENSE.txt": "/clone-coding-react-moive/static/js/2.91705b95.chunk.js.LICENSE.txt"
+    "main.css": "/clone-coding-react-moive/tree/master/clone-coding-react-moive/static/css/main.20bb2752.chunk.css",
+    "main.js": "/clone-coding-react-moive/tree/master/clone-coding-react-moive/static/js/main.220e008a.chunk.js",
+    "main.js.map": "/clone-coding-react-moive/tree/master/clone-coding-react-moive/static/js/main.220e008a.chunk.js.map",
+    "runtime-main.js": "/clone-coding-react-moive/tree/master/clone-coding-react-moive/static/js/runtime-main.fbee6c73.js",
+    "runtime-main.js.map": "/clone-coding-react-moive/tree/master/clone-coding-react-moive/static/js/runtime-main.fbee6c73.js.map",
+    "static/js/2.91705b95.chunk.js": "/clone-coding-react-moive/tree/master/clone-coding-react-moive/static/js/2.91705b95.chunk.js",
+    "static/js/2.91705b95.chunk.js.map": "/clone-coding-react-moive/tree/master/clone-coding-react-moive/static/js/2.91705b95.chunk.js.map",
+    "index.html": "/clone-coding-react-moive/tree/master/clone-coding-react-moive/index.html",
+    "precache-manifest.6e43eef78ee025ddafd59631a68b88eb.js": "/clone-coding-react-moive/tree/master/clone-coding-react-moive/precache-manifest.6e43eef78ee025ddafd59631a68b88eb.js",
+    "service-worker.js": "/clone-coding-react-moive/tree/master/clone-coding-react-moive/service-worker.js",
+    "static/css/main.20bb2752.chunk.css.map": "/clone-coding-react-moive/tree/master/clone-coding-react-moive/static/css/main.20bb2752.chunk.css.map",
+    "static/js/2.91705b95.chunk.js.LICENSE.txt": "/clone-coding-react-moive/tree/master/clone-coding-react-moive/static/js/2.91705b95.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eddc4daa.js",
+    "static/js/runtime-main.fbee6c73.js",
     "static/js/2.91705b95.chunk.js",
     "static/css/main.20bb2752.chunk.css",
     "static/js/main.220e008a.chunk.js"
