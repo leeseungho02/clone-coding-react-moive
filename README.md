@@ -185,3 +185,7 @@ npm i react-router-dom
 [React-router-dom 가이드](https://reactrouter.com/web/guides/quick-start) <br>
 
 </details>
+
+## 📢 추가 개발
+
+- [X] 기존 페이지 디자인
