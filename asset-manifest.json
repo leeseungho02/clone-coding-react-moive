@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/clone-coding-react-moive/static/css/main.01db1c63.chunk.css",
-    "main.js": "/clone-coding-react-moive/static/js/main.32607a4a.chunk.js",
-    "main.js.map": "/clone-coding-react-moive/static/js/main.32607a4a.chunk.js.map",
-    "runtime-main.js": "/clone-coding-react-moive/static/js/runtime-main.eddc4daa.js",
-    "runtime-main.js.map": "/clone-coding-react-moive/static/js/runtime-main.eddc4daa.js.map",
-    "static/css/2.2a86faee.chunk.css": "/clone-coding-react-moive/static/css/2.2a86faee.chunk.css",
-    "static/js/2.08614ccd.chunk.js": "/clone-coding-react-moive/static/js/2.08614ccd.chunk.js",
-    "static/js/2.08614ccd.chunk.js.map": "/clone-coding-react-moive/static/js/2.08614ccd.chunk.js.map",
-    "index.html": "/clone-coding-react-moive/index.html",
-    "precache-manifest.90f95fbf58a4fadeab1e5cf617676118.js": "/clone-coding-react-moive/precache-manifest.90f95fbf58a4fadeab1e5cf617676118.js",
-    "service-worker.js": "/clone-coding-react-moive/service-worker.js",
-    "static/css/2.2a86faee.chunk.css.map": "/clone-coding-react-moive/static/css/2.2a86faee.chunk.css.map",
-    "static/css/main.01db1c63.chunk.css.map": "/clone-coding-react-moive/static/css/main.01db1c63.chunk.css.map",
-    "static/js/2.08614ccd.chunk.js.LICENSE.txt": "/clone-coding-react-moive/static/js/2.08614ccd.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/clone-coding-react-moive/static/media/Roboto-Regular.11eabca2.ttf"
+    "main.css": "/clone-coding-react-movie/static/css/main.8e862f3e.chunk.css",
+    "main.js": "/clone-coding-react-movie/static/js/main.bbbd7f5f.chunk.js",
+    "main.js.map": "/clone-coding-react-movie/static/js/main.bbbd7f5f.chunk.js.map",
+    "runtime-main.js": "/clone-coding-react-movie/static/js/runtime-main.8685444a.js",
+    "runtime-main.js.map": "/clone-coding-react-movie/static/js/runtime-main.8685444a.js.map",
+    "static/css/2.2a86faee.chunk.css": "/clone-coding-react-movie/static/css/2.2a86faee.chunk.css",
+    "static/js/2.9de1ca83.chunk.js": "/clone-coding-react-movie/static/js/2.9de1ca83.chunk.js",
+    "static/js/2.9de1ca83.chunk.js.map": "/clone-coding-react-movie/static/js/2.9de1ca83.chunk.js.map",
+    "index.html": "/clone-coding-react-movie/index.html",
+    "precache-manifest.5b63f9580ca01fb1219b28370f33d99a.js": "/clone-coding-react-movie/precache-manifest.5b63f9580ca01fb1219b28370f33d99a.js",
+    "service-worker.js": "/clone-coding-react-movie/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/clone-coding-react-movie/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.8e862f3e.chunk.css.map": "/clone-coding-react-movie/static/css/main.8e862f3e.chunk.css.map",
+    "static/js/2.9de1ca83.chunk.js.LICENSE.txt": "/clone-coding-react-movie/static/js/2.9de1ca83.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/clone-coding-react-movie/static/media/Roboto-Regular.11eabca2.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.eddc4daa.js",
+    "static/js/runtime-main.8685444a.js",
     "static/css/2.2a86faee.chunk.css",
-    "static/js/2.08614ccd.chunk.js",
-    "static/css/main.01db1c63.chunk.css",
-    "static/js/main.32607a4a.chunk.js"
+    "static/js/2.9de1ca83.chunk.js",
+    "static/css/main.8e862f3e.chunk.css",
+    "static/js/main.bbbd7f5f.chunk.js"
   ]
 }
